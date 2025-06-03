@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🧪 Test Grilles TP/SL Multiples</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            padding: 20px;
+            color: white;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 30px;
+            backdrop-filter: blur(10px);
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2em;
+        }
+        
+        .grid-section {
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .grid-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .grid-levels {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 15px 0;
+        }
+        
+        .level-card {
+            background: rgba(255,255,255,0.2);
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+            border: 2px solid transparent;
+        }
+        
+        .level-card.tp {
+            border-color: var(--level-color);
+        }
+        
+        .level-card.sl {
+            border-color: #dc2626;
+        }
+        
+        .level-threshold {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .level-action {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+        
+        .test-button {
+            background: linear-gradient(45deg, #4facfe 0%, #00f2fe 100%);
+            border: none;
+            border-radius: 25px;
+            padding: 15px 30px;
+            font-size: 1.1em;
+            font-weight: bold;
+            color: white;
+            cursor: pointer;
+            margin: 10px;
+            transition: transform 0.2s;
+        }
+        
+        .test-button:hover {
+            transform: translateY(-2px);
+        }
+        
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        
+        .comparison-table th,
+        .comparison-table td {
+            padding: 12px;
+            text-align: center;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+        }
+        
+        .comparison-table th {
+            background: rgba(255,255,255,0.2);
+            font-weight: bold;
+        }
+        
+        .high-grid {
+            color: #10b981;
+        }
+        
+        .small-grid {
+            color: #3b82f6;
+        }
+        
+        .status {
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: bold;
+        }
+        
+        .status.success {
+            background: rgba(34, 197, 94, 0.2);
+            border: 1px solid #22c55e;
+        }
+        
+        .status.info {
+            background: rgba(59, 130, 246, 0.2);
+            border: 1px solid #3b82f6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧪 Test Grilles TP/SL Multiples</h1>
+        
+        <div class="status success">
+            ✅ Système de grilles multiples configuré et prêt à l'utilisation !
+        </div>
+        
+        <div class="grid-section">
+            <div class="grid-title">
+                <span>🚀</span>
+                <span class="high-grid">GRILLE HIGH (Par défaut)</span>
+            </div>
+            <div class="grid-levels">
+                <div class="level-card tp" style="--level-color: #10b981;">
+                    <div class="level-threshold">TP1: +100%</div>
+                    <div class="level-action">Vendre 25%</div>
+                </div>
+                <div class="level-card tp" style="--level-color: #059669;">
+                    <div class="level-threshold">TP2: +200%</div>
+                    <div class="level-action">Vendre 25%</div>
+                </div>
+                <div class="level-card tp" style="--level-color: #047857;">
+                    <div class="level-threshold">TP3: +500%</div>
+                    <div class="level-action">Vendre 25%</div>
+                </div>
+                <div class="level-card tp" style="--level-color: #065f46;">
+                    <div class="level-threshold">TP4: +1000%</div>
+                    <div class="level-action">Vendre 25%</div>
+                </div>
+                <div class="level-card sl">
+                    <div class="level-threshold">SL: -50%</div>
+                    <div class="level-action">Vendre 100%</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-section">
+            <div class="grid-title">
+                <span>⚡</span>
+                <span class="small-grid">GRILLE SMALL (Nouvelle)</span>
+            </div>
+            <div class="grid-levels">
+                <div class="level-card tp" style="--level-color: #3b82f6;">
+                    <div class="level-threshold">TP1: +10%</div>
+                    <div class="level-action">Vendre 25%</div>
+                </div>
+                <div class="level-card tp" style="--level-color: #2563eb;">
+                    <div class="level-threshold">TP2: +25%</div>
+                    <div class="level-action">Vendre 25%</div>
+                </div>
+                <div class="level-card tp" style="--level-color: #1d4ed8;">
+                    <div class="level-threshold">TP3: +75%</div>
+                    <div class="level-action">Vendre 25%</div>
+                </div>
+                <div class="level-card tp" style="--level-color: #1e40af;">
+                    <div class="level-threshold">TP4: +100%</div>
+                    <div class="level-action">Vendre 25%</div>
+                </div>
+                <div class="level-card sl">
+                    <div class="level-threshold">SL: -50%</div>
+                    <div class="level-action">Vendre 100%</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-section">
+            <div class="grid-title">
+                <span>📊</span>
+                <span>Tableau de Comparaison</span>
+            </div>
+            
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Niveau</th>
+                        <th class="high-grid">Grille HIGH</th>
+                        <th class="small-grid">Grille SMALL</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>TP1</strong></td>
+                        <td class="high-grid">+100%</td>
+                        <td class="small-grid">+10%</td>
+                        <td>Vendre 25%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>TP2</strong></td>
+                        <td class="high-grid">+200%</td>
+                        <td class="small-grid">+25%</td>
+                        <td>Vendre 25%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>TP3</strong></td>
+                        <td class="high-grid">+500%</td>
+                        <td class="small-grid">+75%</td>
+                        <td>Vendre 25%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>TP4</strong></td>
+                        <td class="high-grid">+1000%</td>
+                        <td class="small-grid">+100%</td>
+                        <td>Vendre 25%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>SL</strong></td>
+                        <td class="high-grid">-50%</td>
+                        <td class="small-grid">-50%</td>
+                        <td><strong>Vendre 100%</strong></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="grid-section">
+            <div class="grid-title">
+                <span>🎯</span>
+                <span>Comment utiliser</span>
+            </div>
+            
+            <div style="line-height: 1.6;">
+                <p><strong>1. Activation automatique :</strong> Chaque nouvelle position démarre avec la grille HIGH activée</p>
+                <p><strong>2. Cycle des grilles :</strong> Cliquez sur le bouton TP pour basculer :</p>
+                <ul>
+                    <li><span style="color: #64748b;">🎯 TP OFF</span> → <span class="high-grid">🚀 HIGH</span> → <span class="small-grid">⚡ SMALL</span> → <span style="color: #64748b;">🎯 TP OFF</span></li>
+                </ul>
+                <p><strong>3. Surveillance :</strong> Le système vérifie automatiquement toutes les 2 secondes</p>
+                <p><strong>4. Notifications :</strong> Chaque déclenchement affiche la grille utilisée</p>
+            </div>
+        </div>
+        
+        <div class="status info">
+            ℹ️ Les grilles s'activent automatiquement avec les prix GMGN en temps réel
+        </div>
+    </div>
+</body>
+</html> 

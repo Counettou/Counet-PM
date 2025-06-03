@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-05-27T16:29:58.058Z",
+  "oldPosition": {
+    "mint": "EytLgZytPSwzMizHbyC2Y8Et1wwqriywWoouvgfHpump",
+    "totalAmount": 9478.224967,
+    "averagePrice": 0.000010699788341497805,
+    "averagePriceUSD": 0.0018694319455966136,
+    "totalInvested": 0.10141500100000002,
+    "totalInvestedUSD": 17.71889654086121,
+    "transactions": [
+      {
+        "signature": "3mfuCjaNnPj8CH24BdZd5Q3hMj6TUsK7vAWkiM1fkYy2B2ZiJ8orqxrco5BVz8Br1UoHu4mWWisn3TwQwjuhjH8c",
+        "type": "BUY",
+        "amount": 9478.224967,
+        "price": 0.000010699788341497805,
+        "priceUSD": 0.0018694319455966136,
+        "solAmount": 0.10141500100000002,
+        "usdAmount": 17.71889654086121,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:27:11.627Z"
+      }
+    ],
+    "status": "OPEN",
+    "openedAt": "2025-05-27T16:27:11.627Z",
+    "lastUpdate": "2025-05-27T16:27:11.627Z"
+  }
+}

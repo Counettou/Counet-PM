@@ -1,0 +1,335 @@
+{
+  "EytLgZytPSwzMizHbyC2Y8Et1wwqriywWoouvgfHpump": {
+    "mint": "EytLgZytPSwzMizHbyC2Y8Et1wwqriywWoouvgfHpump",
+    "totalAmount": 0,
+    "averagePrice": 0.000005429286620560965,
+    "averagePriceUSD": 0.0009485871613845541,
+    "totalInvested": 0.05146,
+    "totalInvestedUSD": 8.99092251641074,
+    "transactions": [
+      {
+        "signature": "3mfuCjaNnPj8CH24BdZd5Q3hMj6TUsK7vAWkiM1fkYy2B2ZiJ8orqxrco5BVz8Br1UoHu4mWWisn3TwQwjuhjH8c",
+        "type": "BUY",
+        "amount": 9478.224967,
+        "price": 0.000005429286620560965,
+        "priceUSD": 0.0009485871613845541,
+        "solAmount": 0.05146,
+        "usdAmount": 8.99092251641074,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:27:11.627Z"
+      },
+      {
+        "signature": "3Um79vSXNkf1bj1bKG88kob9g18kouSGswFc67s6nBK3wGjwLEuCBGDxzbNeHCBANtSY4JwXvLZJCckGsEYwJq8F",
+        "type": "SELL",
+        "amount": 9478.224967,
+        "price": 0.000003934276737451488,
+        "priceUSD": 0.0006873839351835126,
+        "solAmount": 0.03728996,
+        "usdAmount": 6.51517957637108,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:39:21.966Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-27T16:27:11.627Z",
+    "lastUpdate": "2025-05-27T16:27:11.627Z",
+    "closedAt": "2025-05-27T16:39:21.966Z",
+    "finalPnL": -0.014170040000000002,
+    "finalPnLUSD": -2.47574294003966,
+    "platformInfo": {
+      "dexName": "Pump.fun",
+      "logicBranch": "Source: PUMP_AMM",
+      "calculationMethod": "Native"
+    }
+  },
+  "6KTefwGvQ4wgmNeobuzhTCKKE55vFoj5dJryAMp8Hau6": {
+    "mint": "6KTefwGvQ4wgmNeobuzhTCKKE55vFoj5dJryAMp8Hau6",
+    "totalAmount": 0,
+    "averagePrice": 1.2402405185135193e-8,
+    "averagePriceUSD": 0.0000021669075794147162,
+    "totalInvested": 0.031305,
+    "totalInvestedUSD": 5.46950698360354,
+    "transactions": [
+      {
+        "signature": "2Wm6Uc1wUG6TKHZtffo3QQdudD6P1TMpgjUHzHzb9A5VbqtE2HzBsNsqHQAeVgCWRsKgFEkrJroitcpu9sT2KpbN",
+        "type": "BUY",
+        "amount": 2524107.181848918,
+        "price": 1.2402405185135193e-8,
+        "priceUSD": 0.0000021669075794147162,
+        "solAmount": 0.031305,
+        "usdAmount": 5.46950698360354,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:33:22.337Z"
+      },
+      {
+        "signature": "4Skr5jqLPxDvF22MX9fJnqcngdhDS6g1YpbA2C6yA12GV4CXYYCe8L2hWF4BwmAPSFo6ogYPPvsyRTXuvwVZussB",
+        "type": "SELL",
+        "amount": 2524107.181848918,
+        "price": 9.586573491809969e-9,
+        "priceUSD": 0.0000016749346961278773,
+        "solAmount": 0.024197539,
+        "usdAmount": 4.227714695624311,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:46:54.262Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-27T16:33:22.337Z",
+    "lastUpdate": "2025-05-27T16:33:22.337Z",
+    "closedAt": "2025-05-27T16:46:54.262Z",
+    "finalPnL": -0.007107460999999999,
+    "finalPnLUSD": -1.2417922879792291,
+    "platformInfo": {
+      "dexName": "Raydium CPMM",
+      "logicBranch": "PID: CPMMoo...",
+      "calculationMethod": "Native"
+    }
+  },
+  "AU4PHZ4MhRR8WkhjifJbZg2FiFkJaP3nxXRkf67FKpyj": {
+    "mint": "AU4PHZ4MhRR8WkhjifJbZg2FiFkJaP3nxXRkf67FKpyj",
+    "totalAmount": 0,
+    "averagePrice": 4.875675865610664e-7,
+    "averagePriceUSD": 0.00008609363370683336,
+    "totalInvested": 0.0665965,
+    "totalInvestedUSD": 11.759466451814717,
+    "transactions": [
+      {
+        "signature": "fNQZTBSuzpHdHVTxcwqcSDFH1dQGnvasCLwwwrhRUfdWdPsp52e83RH2JJ7kzqcCA7rFdkD4usyKKEPh7TBgCJr",
+        "type": "BUY",
+        "amount": 136589.268515,
+        "price": 4.875675865610664e-7,
+        "priceUSD": 0.00008609363370683336,
+        "solAmount": 0.0665965,
+        "usdAmount": 11.759466451814717,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T07:34:36.442Z"
+      },
+      {
+        "signature": "675PSmeAQqFVvQe7krwd39HhSeLGiAPioFGPeLatb1KH2N3GYd4B4hPGLpD6sZkd3Q4niyyWComB8VtvDaCJPJTW",
+        "type": "SELL",
+        "amount": 136589.268515,
+        "price": 4.922318109684914e-7,
+        "priceUSD": 0.00008691723240110183,
+        "solAmount": 0.067233583,
+        "usdAmount": 11.871961195014757,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T07:36:02.507Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-28T07:34:36.442Z",
+    "lastUpdate": "2025-05-28T07:34:36.442Z",
+    "closedAt": "2025-05-28T07:36:02.507Z",
+    "finalPnL": 0.0006370829999999966,
+    "finalPnLUSD": 0.11249474320004005,
+    "platformInfo": {
+      "dexName": "Pump.fun",
+      "logicBranch": "Source: PUMP_AMM",
+      "calculationMethod": "Native"
+    }
+  },
+  "6JLfMCYw5H1dcs5SdamWGofG9tyf7EnpYij5GvzMdqvD": {
+    "mint": "6JLfMCYw5H1dcs5SdamWGofG9tyf7EnpYij5GvzMdqvD",
+    "totalAmount": 0,
+    "averagePrice": 3.0372086027671994e-8,
+    "averagePriceUSD": 0.000005363037497676895,
+    "totalInvested": 0.024752475,
+    "totalInvestedUSD": 4.370738692902517,
+    "transactions": [
+      {
+        "signature": "4HYHqTTH7189fNKtDophne1jq3myb3WVPjWwEp6uuwhKxAj9kYyLcFqCo6LAPek4QEQsG5TqcKJCJMFpGhaXves",
+        "type": "BUY",
+        "amount": 814974.479443,
+        "price": 3.0372086027671994e-8,
+        "priceUSD": 0.000005363037497676895,
+        "solAmount": 0.024752475,
+        "usdAmount": 4.370738692902517,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T07:38:32.680Z"
+      },
+      {
+        "signature": "3oWpUKxRh6gvcRKLRVURGhK1tuJqeywVwtfwXczh7SqWaeA8jvuFyvFqbPGBa8DE9Z9z1GTB1S5wNUmhfvGgVKmQ",
+        "type": "SELL",
+        "amount": 814974.479443,
+        "price": 2.8055804907691197e-8,
+        "priceUSD": 0.000004954033569191373,
+        "solAmount": 0.022864765,
+        "usdAmount": 4.037410929194887,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T08:33:20.609Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-28T07:38:32.680Z",
+    "lastUpdate": "2025-05-28T07:38:32.680Z",
+    "closedAt": "2025-05-28T08:33:20.609Z",
+    "finalPnL": -0.0018877100000000008,
+    "finalPnLUSD": -0.3333277637076298,
+    "platformInfo": {
+      "dexName": "Pump.fun",
+      "logicBranch": "Source: PUMP_FUN",
+      "calculationMethod": "Native"
+    }
+  },
+  "BLkGNr9EBgRXYy4sWjoPvPbpzCGtLNziPNEQSxiDpump": {
+    "mint": "BLkGNr9EBgRXYy4sWjoPvPbpzCGtLNziPNEQSxiDpump",
+    "totalAmount": 0,
+    "averagePrice": 2.6474347902980202e-8,
+    "averagePriceUSD": 0.000004674783299404127,
+    "totalInvested": 0.079928001,
+    "totalInvestedUSD": 14.113514168464004,
+    "transactions": [
+      {
+        "signature": "21LEpec5Hb8mpKhPTULRenLP2gZBvx9juoFew5nNLkEpvRC8iQ1RJxfsdNy359tKyySYGdkuRsVs1Ydp6SoSDbL1",
+        "type": "BUY",
+        "amount": 3019073.45529,
+        "price": 2.6474347902980202e-8,
+        "priceUSD": 0.000004674783299404127,
+        "solAmount": 0.079928001,
+        "usdAmount": 14.113514168464004,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T08:49:33.154Z"
+      },
+      {
+        "signature": "Zu8zw2bKWD3VhgWfvZqdBBYrvEzh9S7fXxH81sytdqpP1wm2hF9kph23qicWerfmvXbo7P7x4Uekpy4ofNLBU9J",
+        "type": "SELL",
+        "amount": 3019073.45529,
+        "price": 2.6875197374820477e-8,
+        "priceUSD": 0.000004745564435294653,
+        "solAmount": 0.081138195,
+        "usdAmount": 14.327207616966366,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T08:57:55.407Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-28T08:49:33.154Z",
+    "lastUpdate": "2025-05-28T08:49:33.154Z",
+    "closedAt": "2025-05-28T08:57:55.407Z",
+    "finalPnL": 0.0012101939999999978,
+    "finalPnLUSD": 0.2136934485023616,
+    "platformInfo": {
+      "dexName": "Pump.fun",
+      "logicBranch": "Source: PUMP_AMM",
+      "calculationMethod": "Native"
+    }
+  },
+  "8LAQM4KsMGNqjFXe6Fi8zSCz32GyDaz12mmJwERApump": {
+    "mint": "8LAQM4KsMGNqjFXe6Fi8zSCz32GyDaz12mmJwERApump",
+    "totalAmount": 0,
+    "averagePrice": 2.806971785370179e-8,
+    "averagePriceUSD": 0.000004956490287214956,
+    "totalInvested": 0.0990099,
+    "totalInvestedUSD": 17.482954771610068,
+    "transactions": [
+      {
+        "signature": "3a64X7kB2E4d77U5py4Q2E5Qdh8hVokVhXzupjH1r56C8GCQRkdcWv5iZNK2vr85eTHQgxt4Z7y2NQMCftgXMCVB",
+        "type": "BUY",
+        "amount": 3527285.187405,
+        "price": 2.806971785370179e-8,
+        "priceUSD": 0.000004956490287214956,
+        "solAmount": 0.0990099,
+        "usdAmount": 17.482954771610068,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T09:06:58.731Z"
+      },
+      {
+        "signature": "5HborKzYQE8UiG8Cr4ur1Mir6vW6zet6vU3ufqSkMxxEi8tWjG1oDvXDNj1VXaMqh8V4VKL7k5bhDhQXEJSoy53B",
+        "type": "SELL",
+        "amount": 3527285.187405,
+        "price": 0,
+        "priceUSD": 0.000004707656492362153,
+        "solAmount": 0.096039601,
+        "usdAmount": 16.6052470129,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T14:25:51.473Z",
+        "solReceived": 0.096039601,
+        "solSpent": 0.0029851979999999997,
+        "totalValueUSD": 16.6052470129
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-28T09:06:58.731Z",
+    "lastUpdate": "2025-05-28T09:06:58.731Z",
+    "platformInfo": {
+      "dexName": "Pump.fun",
+      "logicBranch": "Source: PUMP_FUN",
+      "calculationMethod": "Native"
+    },
+    "closedAt": "2025-05-28T14:25:51.473Z",
+    "finalPnL": -0.0029702989999999957,
+    "finalPnLUSD": -17.482954771610068
+  },
+  "E5vHAi6BwQvVNb3SgC2pBRpUkVTPjwq9mSsz2tX2pump": {
+    "mint": "E5vHAi6BwQvVNb3SgC2pBRpUkVTPjwq9mSsz2tX2pump",
+    "totalAmount": 0,
+    "averagePrice": 0.0000012589672509220175,
+    "averagePriceUSD": 0.000222305724041817,
+    "totalInvested": 0.051460001,
+    "totalInvestedUSD": 9.08669607817005,
+    "transactions": [
+      {
+        "signature": "2Z2M79h2xRCYkdgWWPZfy8ezY9TVpRz4MvCGi94kjcVQn465FDZPNDdyEwKASHrsF1x4KEmXGH9uF6pkRQD7kQVX",
+        "type": "BUY",
+        "amount": 40874.773321,
+        "price": 0.0000012589672509220175,
+        "priceUSD": 0.000222305724041817,
+        "solAmount": 0.051460001,
+        "usdAmount": 9.08669607817005,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T16:15:10.299Z"
+      },
+      {
+        "signature": "2GPYvZuYuBy1shuhrT33KBU9hmqUspc4sohvbtZtyD2Qeq8NUtpN4qQx4Nv3hpM6Ectm1r2F9hE86aSR9wBQjTf7",
+        "type": "SELL",
+        "amount": 40874.773321,
+        "price": 2.241756774536609e-8,
+        "priceUSD": 0.000003958445801700032,
+        "solAmount": 0.000916313,
+        "usdAmount": 0.16180057484795293,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T17:10:59.386Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-28T16:15:10.299Z",
+    "lastUpdate": "2025-05-28T16:15:10.299Z",
+    "platformInfo": {
+      "dexName": "Pump.fun",
+      "logicBranch": "Source: PUMP_AMM",
+      "calculationMethod": "Native"
+    },
+    "closedAt": "2025-05-28T17:10:59.386Z",
+    "finalPnL": -0.050543687999999996,
+    "finalPnLUSD": -8.924895503322096
+  },
+  "BYdxrskh1HfVfvAd8a9aAjoLAU6Bo97AgN56gDwqpump": {
+    "mint": "BYdxrskh1HfVfvAd8a9aAjoLAU6Bo97AgN56gDwqpump",
+    "totalAmount": 119428.040626,
+    "averagePrice": 4.308870909232428e-7,
+    "averagePriceUSD": 0.0000760851139358962,
+    "totalInvested": 0.051460001,
+    "totalInvestedUSD": 9.08669607817005,
+    "transactions": [
+      {
+        "signature": "5z9apEEUpzN5NfnmEUqRZGGzjGThB1n1hu3M7Y3SmerzqDMKN9HUvbZ3qxmJtZBtrNxSVJaRCinY4guFycVRM7BF",
+        "type": "BUY",
+        "amount": 119428.040626,
+        "price": 4.308870909232428e-7,
+        "priceUSD": 0.0000760851139358962,
+        "solAmount": 0.051460001,
+        "usdAmount": 9.08669607817005,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T17:11:28.457Z"
+      }
+    ],
+    "status": "OPEN",
+    "openedAt": "2025-05-28T17:11:28.457Z",
+    "lastUpdate": "2025-05-28T17:11:28.457Z",
+    "platformInfo": {
+      "dexName": "Pump.fun",
+      "logicBranch": "Source: PUMP_AMM",
+      "calculationMethod": "Native"
+    }
+  }
+}

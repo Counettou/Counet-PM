@@ -1,0 +1,48 @@
+{
+  "name": "solana-position-manager",
+  "version": "2.2.0",
+  "type": "module",
+  "main": "src/websocket_server.js",
+  "description": "Système de monitoring Solana temps réel avec tunnel Cloudflare et webhooks Helius",
+  "scripts": {
+    "start": "./scripts/start_tunnel.sh",
+    "start-tunnel": "./scripts/start_tunnel.sh",
+    "dev": "./scripts/start_tunnel.sh",
+    "server": "node src/websocket_server.js",
+    "tunnel": "cloudflared tunnel --config cloudflared_config.yml run helius-tunnel",
+    "setup-webhook": "./scripts/configure_webhook.sh",
+    "test": "./tests/test_tunnel.sh",
+    "test-metadata": "node preload_metadata.js",
+    "test-realtime-prices": "node -e \"import('./src/realtime_price_service.js').then(m => { const service = new m.default(); service.addToken('7mxvtYChQGah6a6w6SEwTDFMXg5vNdR9dSMhpbCupump'); setTimeout(() => service.stop(), 10000); })\"",
+    "test-jupiter": "node test_jupiter_service.js",
+    "switch-jupiter": "node scripts/switch_api.js jupiter",
+    "switch-dexscreener": "node scripts/switch_api.js dexscreener",
+    "price-stats": "node -e \"fetch('http://localhost:8080/api/realtime-prices').then(r=>r.json()).then(d=>console.log('📊 Stats:',JSON.stringify(d.stats,null,2)))\"",
+    "clean": "./scripts/clean_all_data.sh",
+    "install-service": "./scripts/install_tunnel_service.sh"
+  },
+  "keywords": [
+    "solana",
+    "webhook",
+    "helius",
+    "cloudflare",
+    "tunnel",
+    "crypto",
+    "monitoring",
+    "trading",
+    "positions"
+  ],
+  "author": "Nicolas Rizzuto",
+  "license": "MIT",
+  "dependencies": {
+    "@qnaplus/node-curl-impersonate": "^1.0.2",
+    "@solana/web3.js": "^1.98.2",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.19.2",
+    "got-scraping": "^4.1.1",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2",
+    "ws": "^8.14.2"
+  }
+}

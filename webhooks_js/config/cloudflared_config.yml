@@ -1,0 +1,13 @@
+tunnel: 0af91ac9-5f76-49c1-893e-acdb55bc223e
+credentials-file: /Users/nrdi/.cloudflared/0af91ac9-5f76-49c1-893e-acdb55bc223e.json
+
+# Forcer IPv4 pour éviter les problèmes de connectivité IPv6
+ipv6-disabled: true
+
+ingress:
+  # Règle fourre-tout - route tout le trafic vers le serveur local (port Helius)
+  - service: http://127.0.0.1:8081
+    originRequest:
+      noTLSVerify: true
+      connectTimeout: 30s
+      tlsTimeout: 30s 

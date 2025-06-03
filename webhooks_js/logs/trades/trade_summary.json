@@ -1,0 +1,44 @@
+{
+  "totalTrades": 134,
+  "totalVolume": 0.631588719,
+  "totalPnL": null,
+  "successRate": 100,
+  "averageExecutionTime": 1925,
+  "byToken": {
+    "Unknown": {
+      "trades": 126,
+      "volume": 0.133688719,
+      "pnl": 0
+    },
+    "MASK": {
+      "trades": 7,
+      "volume": 0.3479,
+      "pnl": 0
+    },
+    "TestToken": {
+      "trades": 1,
+      "volume": 0.15,
+      "pnl": 0
+    }
+  },
+  "byPlatform": {
+    "Meteora": {
+      "trades": 39,
+      "volume": 0.382015
+    },
+    "Pump.fun": {
+      "trades": 88,
+      "volume": 0.20977271899999997
+    },
+    "Unknown": {
+      "trades": 3,
+      "volume": 0.039801
+    },
+    "Raydium AMM": {
+      "trades": 4,
+      "volume": 0
+    }
+  },
+  "lastUpdated": "2025-06-02T17:48:40.864Z",
+  "sellCount": 4
+}

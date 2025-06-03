@@ -1,0 +1,12 @@
+{
+  "webhookID": "96d44958-7adc-4447-9b59-7d694fd6c28f",
+  "webhookURL": "https://webhook.counet.uk/helius-webhook",
+  "customDomain": "webhook.counet.uk",
+  "tunnelURL": "https://0af91ac9-5f76-49c1-893e-acdb55bc223e.cfargotunnel.com",
+  "walletAddress": "CaBTVKEDpwkQLguTfSBRX9haxf4cW4KUexcMsvo8RTaB",
+  "transactionTypes": [
+    "ANY"
+  ],
+  "webhookType": "enhanced",
+  "updatedAt": "2025-05-27T09:23:59.998Z"
+}

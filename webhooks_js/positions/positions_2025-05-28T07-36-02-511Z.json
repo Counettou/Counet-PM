@@ -1,0 +1,116 @@
+{
+  "EytLgZytPSwzMizHbyC2Y8Et1wwqriywWoouvgfHpump": {
+    "mint": "EytLgZytPSwzMizHbyC2Y8Et1wwqriywWoouvgfHpump",
+    "totalAmount": 0,
+    "averagePrice": 0.000005429286620560965,
+    "averagePriceUSD": 0.0009485871613845541,
+    "totalInvested": 0.05146,
+    "totalInvestedUSD": 8.99092251641074,
+    "transactions": [
+      {
+        "signature": "3mfuCjaNnPj8CH24BdZd5Q3hMj6TUsK7vAWkiM1fkYy2B2ZiJ8orqxrco5BVz8Br1UoHu4mWWisn3TwQwjuhjH8c",
+        "type": "BUY",
+        "amount": 9478.224967,
+        "price": 0.000005429286620560965,
+        "priceUSD": 0.0009485871613845541,
+        "solAmount": 0.05146,
+        "usdAmount": 8.99092251641074,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:27:11.627Z"
+      },
+      {
+        "signature": "3Um79vSXNkf1bj1bKG88kob9g18kouSGswFc67s6nBK3wGjwLEuCBGDxzbNeHCBANtSY4JwXvLZJCckGsEYwJq8F",
+        "type": "SELL",
+        "amount": 9478.224967,
+        "price": 0.000007868553474902975,
+        "priceUSD": 0.0013747678703670252,
+        "solAmount": 0.07457992,
+        "usdAmount": 13.030359152742157,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:39:21.966Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-27T16:27:11.627Z",
+    "lastUpdate": "2025-05-27T16:27:11.627Z",
+    "closedAt": "2025-05-27T16:39:21.966Z",
+    "finalPnL": 0.023119919999999995,
+    "finalPnLUSD": 4.039436636331418
+  },
+  "6KTefwGvQ4wgmNeobuzhTCKKE55vFoj5dJryAMp8Hau6": {
+    "mint": "6KTefwGvQ4wgmNeobuzhTCKKE55vFoj5dJryAMp8Hau6",
+    "totalAmount": 0,
+    "averagePrice": 1.2402405185135193e-8,
+    "averagePriceUSD": 0.0000021669075794147162,
+    "totalInvested": 0.031305,
+    "totalInvestedUSD": 5.46950698360354,
+    "transactions": [
+      {
+        "signature": "2Wm6Uc1wUG6TKHZtffo3QQdudD6P1TMpgjUHzHzb9A5VbqtE2HzBsNsqHQAeVgCWRsKgFEkrJroitcpu9sT2KpbN",
+        "type": "BUY",
+        "amount": 2524107.181848918,
+        "price": 1.2402405185135193e-8,
+        "priceUSD": 0.0000021669075794147162,
+        "solAmount": 0.031305,
+        "usdAmount": 5.46950698360354,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:33:22.337Z"
+      },
+      {
+        "signature": "4Skr5jqLPxDvF22MX9fJnqcngdhDS6g1YpbA2C6yA12GV4CXYYCe8L2hWF4BwmAPSFo6ogYPPvsyRTXuvwVZussB",
+        "type": "SELL",
+        "amount": 2524107.181848918,
+        "price": 9.586573491809969e-9,
+        "priceUSD": 0.0000016749346961278773,
+        "solAmount": 0.024197539,
+        "usdAmount": 4.227714695624311,
+        "solPriceAtTime": 174.71672204451494,
+        "timestamp": "2025-05-27T16:46:54.262Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-27T16:33:22.337Z",
+    "lastUpdate": "2025-05-27T16:33:22.337Z",
+    "closedAt": "2025-05-27T16:46:54.262Z",
+    "finalPnL": -0.007107460999999999,
+    "finalPnLUSD": -1.2417922879792291
+  },
+  "AU4PHZ4MhRR8WkhjifJbZg2FiFkJaP3nxXRkf67FKpyj": {
+    "mint": "AU4PHZ4MhRR8WkhjifJbZg2FiFkJaP3nxXRkf67FKpyj",
+    "totalAmount": 0,
+    "averagePrice": 4.875675865610664e-7,
+    "averagePriceUSD": 0.00008609363370683336,
+    "totalInvested": 0.0665965,
+    "totalInvestedUSD": 11.759466451814717,
+    "transactions": [
+      {
+        "signature": "fNQZTBSuzpHdHVTxcwqcSDFH1dQGnvasCLwwwrhRUfdWdPsp52e83RH2JJ7kzqcCA7rFdkD4usyKKEPh7TBgCJr",
+        "type": "BUY",
+        "amount": 136589.268515,
+        "price": 4.875675865610664e-7,
+        "priceUSD": 0.00008609363370683336,
+        "solAmount": 0.0665965,
+        "usdAmount": 11.759466451814717,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T07:34:36.442Z"
+      },
+      {
+        "signature": "675PSmeAQqFVvQe7krwd39HhSeLGiAPioFGPeLatb1KH2N3GYd4B4hPGLpD6sZkd3Q4niyyWComB8VtvDaCJPJTW",
+        "type": "SELL",
+        "amount": 136589.268515,
+        "price": 4.922318109684914e-7,
+        "priceUSD": 0.00008691723240110183,
+        "solAmount": 0.067233583,
+        "usdAmount": 11.871961195014757,
+        "solPriceAtTime": 176.57784495904014,
+        "timestamp": "2025-05-28T07:36:02.507Z"
+      }
+    ],
+    "status": "CLOSED",
+    "openedAt": "2025-05-28T07:34:36.442Z",
+    "lastUpdate": "2025-05-28T07:34:36.442Z",
+    "closedAt": "2025-05-28T07:36:02.507Z",
+    "finalPnL": 0.0006370829999999966,
+    "finalPnLUSD": 0.11249474320004005
+  }
+}

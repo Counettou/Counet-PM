@@ -1,0 +1,172 @@
+{
+  "timestamp": "2025-05-28T14:40:55.940Z",
+  "summary": {
+    "totalPositions": 6,
+    "validPositions": 0,
+    "successRate": 0
+  },
+  "results": [
+    {
+      "mint": "EytLgZytPSwzMizHbyC2Y8Et1wwqriywWoouvgfHpump",
+      "tokenSymbol": "Unknown",
+      "status": "CLOSED",
+      "currentData": {
+        "totalInvested": 0.05146,
+        "averagePrice": 0.000005429286620560965,
+        "averagePriceUSD": 0.0009485871613845541,
+        "finalPnL": -0.014170040000000002,
+        "transactions": 2
+      },
+      "recalculatedData": {
+        "totalInvested": 0,
+        "totalReceived": 0,
+        "buyTransactions": [],
+        "sellTransactions": [],
+        "errors": [
+          "Transaction brute manquante: 3mfuCjaNnPj8CH24BdZd5Q3hMj6TUsK7vAWkiM1fkYy2B2ZiJ8orqxrco5BVz8Br1UoHu4mWWisn3TwQwjuhjH8c",
+          "Transaction brute manquante: 3Um79vSXNkf1bj1bKG88kob9g18kouSGswFc67s6nBK3wGjwLEuCBGDxzbNeHCBANtSY4JwXvLZJCckGsEYwJq8F"
+        ]
+      },
+      "differences": {
+        "totalInvested": 0.05146,
+        "finalPnL": 0.014170040000000002
+      },
+      "isValid": false
+    },
+    {
+      "mint": "6KTefwGvQ4wgmNeobuzhTCKKE55vFoj5dJryAMp8Hau6",
+      "tokenSymbol": "Unknown",
+      "status": "CLOSED",
+      "currentData": {
+        "totalInvested": 0.031305,
+        "averagePrice": 1.2402405185135193e-8,
+        "averagePriceUSD": 0.0000021669075794147162,
+        "finalPnL": -0.007107460999999999,
+        "transactions": 2
+      },
+      "recalculatedData": {
+        "totalInvested": 0,
+        "totalReceived": 0,
+        "buyTransactions": [],
+        "sellTransactions": [],
+        "errors": [
+          "Transaction brute manquante: 2Wm6Uc1wUG6TKHZtffo3QQdudD6P1TMpgjUHzHzb9A5VbqtE2HzBsNsqHQAeVgCWRsKgFEkrJroitcpu9sT2KpbN",
+          "Transaction brute manquante: 4Skr5jqLPxDvF22MX9fJnqcngdhDS6g1YpbA2C6yA12GV4CXYYCe8L2hWF4BwmAPSFo6ogYPPvsyRTXuvwVZussB"
+        ]
+      },
+      "differences": {
+        "totalInvested": 0.031305,
+        "finalPnL": 0.007107460999999999
+      },
+      "isValid": false
+    },
+    {
+      "mint": "AU4PHZ4MhRR8WkhjifJbZg2FiFkJaP3nxXRkf67FKpyj",
+      "tokenSymbol": "Unknown",
+      "status": "CLOSED",
+      "currentData": {
+        "totalInvested": 0.0665965,
+        "averagePrice": 4.875675865610664e-7,
+        "averagePriceUSD": 0.00008609363370683336,
+        "finalPnL": 0.0006370829999999966,
+        "transactions": 2
+      },
+      "recalculatedData": {
+        "totalInvested": 0,
+        "totalReceived": 0,
+        "buyTransactions": [],
+        "sellTransactions": [],
+        "errors": [
+          "Transaction brute manquante: fNQZTBSuzpHdHVTxcwqcSDFH1dQGnvasCLwwwrhRUfdWdPsp52e83RH2JJ7kzqcCA7rFdkD4usyKKEPh7TBgCJr",
+          "Transaction brute manquante: 675PSmeAQqFVvQe7krwd39HhSeLGiAPioFGPeLatb1KH2N3GYd4B4hPGLpD6sZkd3Q4niyyWComB8VtvDaCJPJTW"
+        ]
+      },
+      "differences": {
+        "totalInvested": 0.0665965,
+        "finalPnL": 0.0006370829999999966
+      },
+      "isValid": false
+    },
+    {
+      "mint": "6JLfMCYw5H1dcs5SdamWGofG9tyf7EnpYij5GvzMdqvD",
+      "tokenSymbol": "Unknown",
+      "status": "CLOSED",
+      "currentData": {
+        "totalInvested": 0.024752475,
+        "averagePrice": 3.0372086027671994e-8,
+        "averagePriceUSD": 0.000005363037497676895,
+        "finalPnL": -0.0018877100000000008,
+        "transactions": 2
+      },
+      "recalculatedData": {
+        "totalInvested": 0,
+        "totalReceived": 0,
+        "buyTransactions": [],
+        "sellTransactions": [],
+        "errors": [
+          "Transaction brute manquante: 4HYHqTTH7189fNKtDophne1jq3myb3WVPjWwEp6uuwhKxAj9kYyLcFqCo6LAPek4QEQsG5TqcKJCJMFpGhaXves",
+          "Transaction brute manquante: 3oWpUKxRh6gvcRKLRVURGhK1tuJqeywVwtfwXczh7SqWaeA8jvuFyvFqbPGBa8DE9Z9z1GTB1S5wNUmhfvGgVKmQ"
+        ]
+      },
+      "differences": {
+        "totalInvested": 0.024752475,
+        "finalPnL": 0.0018877100000000008
+      },
+      "isValid": false
+    },
+    {
+      "mint": "BLkGNr9EBgRXYy4sWjoPvPbpzCGtLNziPNEQSxiDpump",
+      "tokenSymbol": "Unknown",
+      "status": "CLOSED",
+      "currentData": {
+        "totalInvested": 0.079928001,
+        "averagePrice": 2.6474347902980202e-8,
+        "averagePriceUSD": 0.000004674783299404127,
+        "finalPnL": 0.0012101939999999978,
+        "transactions": 2
+      },
+      "recalculatedData": {
+        "totalInvested": 0,
+        "totalReceived": 0,
+        "buyTransactions": [],
+        "sellTransactions": [],
+        "errors": [
+          "Transaction brute manquante: 21LEpec5Hb8mpKhPTULRenLP2gZBvx9juoFew5nNLkEpvRC8iQ1RJxfsdNy359tKyySYGdkuRsVs1Ydp6SoSDbL1",
+          "Transaction brute manquante: Zu8zw2bKWD3VhgWfvZqdBBYrvEzh9S7fXxH81sytdqpP1wm2hF9kph23qicWerfmvXbo7P7x4Uekpy4ofNLBU9J"
+        ]
+      },
+      "differences": {
+        "totalInvested": 0.079928001,
+        "finalPnL": 0.0012101939999999978
+      },
+      "isValid": false
+    },
+    {
+      "mint": "8LAQM4KsMGNqjFXe6Fi8zSCz32GyDaz12mmJwERApump",
+      "tokenSymbol": "Unknown",
+      "status": "CLOSED",
+      "currentData": {
+        "totalInvested": 0.0990099,
+        "averagePrice": 2.806971785370179e-8,
+        "averagePriceUSD": 0.000004956490287214956,
+        "finalPnL": -0.0029702989999999957,
+        "transactions": 2
+      },
+      "recalculatedData": {
+        "totalInvested": 0,
+        "totalReceived": 0,
+        "buyTransactions": [],
+        "sellTransactions": [],
+        "errors": [
+          "Transaction brute manquante: 3a64X7kB2E4d77U5py4Q2E5Qdh8hVokVhXzupjH1r56C8GCQRkdcWv5iZNK2vr85eTHQgxt4Z7y2NQMCftgXMCVB",
+          "Transaction brute manquante: 5HborKzYQE8UiG8Cr4ur1Mir6vW6zet6vU3ufqSkMxxEi8tWjG1oDvXDNj1VXaMqh8V4VKL7k5bhDhQXEJSoy53B"
+        ]
+      },
+      "differences": {
+        "totalInvested": 0.0990099,
+        "finalPnL": 0.0029702989999999957
+      },
+      "isValid": false
+    }
+  ]
+}
