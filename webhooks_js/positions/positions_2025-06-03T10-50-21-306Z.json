@@ -1,7 +1,7 @@
 {
   "upr6FdYQiYwukTuXmveb9yPn6PCpRnnxCP1fMrkpump": {
     "mint": "upr6FdYQiYwukTuXmveb9yPn6PCpRnnxCP1fMrkpump",
-    "totalAmount": 0,
+    "totalAmount": 17437.697304,
     "averagePrice": 0.0000012150113991908757,
     "averagePriceUSD": 0.00019072187216040518,
     "totalInvested": 0.021187001,
@@ -17,29 +17,15 @@
         "usdAmount": 3.3257502759853304,
         "solPriceAtTime": 156.97126157615844,
         "timestamp": "2025-06-03T10:50:21.034Z"
-      },
-      {
-        "signature": "2n4azkLXossa4EBMCN6xWsXMRPah4hLP8gv3Xam6a8YNDQWR7G88VhWJFCBRwJoqkWFy9B9mj2qPTiR71YJ1m5KZ",
-        "type": "SELL",
-        "amount": 17437.697304,
-        "price": 0.0000012414367919458178,
-        "priceUSD": 0.00019486989939879396,
-        "solAmount": 0.021647799,
-        "usdAmount": 3.398082319377101,
-        "solPriceAtTime": 156.97126157615844,
-        "timestamp": "2025-06-03T10:50:45.143Z"
       }
     ],
-    "status": "CLOSED",
+    "status": "OPEN",
     "openedAt": "2025-06-03T10:50:21.034Z",
     "lastUpdate": "2025-06-03T10:50:21.034Z",
     "platformInfo": {
       "dexName": "Pump.fun",
       "logicBranch": "Source: PUMP_AMM",
       "calculationMethod": "Native"
-    },
-    "closedAt": "2025-06-03T10:50:45.143Z",
-    "finalPnL": 0.0004607979999999984,
-    "finalPnLUSD": 0.07233204339177046
+    }
   }
 }

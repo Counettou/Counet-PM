@@ -1,12 +1,12 @@
 {
-  "totalTrades": 134,
+  "totalTrades": 135,
   "totalVolume": 0.631588719,
   "totalPnL": null,
   "successRate": 100,
   "averageExecutionTime": 1925,
   "byToken": {
     "Unknown": {
-      "trades": 126,
+      "trades": 127,
       "volume": 0.133688719,
       "pnl": 0
     },
@@ -27,7 +27,7 @@
       "volume": 0.382015
     },
     "Pump.fun": {
-      "trades": 88,
+      "trades": 89,
       "volume": 0.20977271899999997
     },
     "Unknown": {
@@ -39,6 +39,6 @@
       "volume": 0
     }
   },
-  "lastUpdated": "2025-06-02T17:48:40.864Z",
+  "lastUpdated": "2025-06-03T10:50:41.658Z",
   "sellCount": 4
 }

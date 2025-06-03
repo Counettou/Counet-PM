@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1748947841654_0zovr6",
+    "type": "SELL",
+    "timestamp": "2025-06-03T10:50:41.654Z",
+    "tokenMint": "upr6FdYQiYwukTuXmveb9yPn6PCpRnnxCP1fMrkpump",
+    "tokenSymbol": "Unknown",
+    "tokenName": "",
+    "signature": "2n4azkLXossa4EBMCN6xWsXMRPah4hLP8gv3Xam6a8YNDQWR7G88VhWJFCBRwJoqkWFy9B9mj2qPTiR71YJ1m5KZ",
+    "percentage": 100,
+    "tokensSold": null,
+    "pricePerToken": null,
+    "pricePerTokenUSD": null,
+    "buyPrice": 0.0000012150113991908757,
+    "sellPrice": null,
+    "sellPerformance": 0,
+    "executionTime": null,
+    "timings": {},
+    "slippage": null,
+    "platform": "Pump.fun",
+    "source": "MANUAL_UI",
+    "retryAttempt": 0,
+    "success": true,
+    "remainingTokens": 0,
+    "positionClosed": true,
+    "errors": [],
+    "explorerUrl": "https://solscan.io/tx/2n4azkLXossa4EBMCN6xWsXMRPah4hLP8gv3Xam6a8YNDQWR7G88VhWJFCBRwJoqkWFy9B9mj2qPTiR71YJ1m5KZ",
+    "notes": ""
+  }
+]
